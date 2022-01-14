@@ -15,4 +15,38 @@ hr{
 .store{
     margin-right: 40px;
 }
+.footer{
+    padding-top: 50px;
+    height: 240px;
+    width: 100%;
+    background-color: #17082e;
+    text-align: center;
+}
 
+.footer-text{
+    width: 100%;
+    /* text-align: center; */
+}
+
+#footer-heading{
+    font-family: poppins;
+    font-weight: 700px;
+    font-size: 24px;
+    color: #ffff;
+}
+#copyright, #all-right{
+    font-family: Manrope;
+    color: #ffff;
+    font-weight: 700px;
+    font-size: 14px;
+}
+.footer-icon{
+    display: flex;
+    justify-content: center;
+    color: #ffff;
+    border: 1px;
+}
+.icon{
+    
+    margin-right: 20px;
+}
