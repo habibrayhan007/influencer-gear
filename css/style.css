@@ -22,6 +22,47 @@ nav a{
     font-weight: bold;
     font-size: 16px;
 }
+.feature-image-with-description{
+    margin-top: 50px;
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-left: 120px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.descripton{
+    width: 600px;
+}
+#start-journy{
+    font-family: poppins;
+    font-size: 1.5em;
+    font-size: 52px;
+}
+.prebook{
+    width: 200px;
+    height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 50px;
+    background-color: #E02C6D;
+    font-family: poppins;
+    font-size: 16px;
+    color: #ffff;
+}
+.fas {
+    margin-left: 10px;
+    
+}
+.feature-image{
+    height: 400px;
+    width: 400px;
+    margin-right: 5px;
+    border: 1px solid lightcoral;
+    border-radius: 50%;
+    display: flex;
+}
+
 hr{
     border: .5px solid #d1d1d1;
 }
