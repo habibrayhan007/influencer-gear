@@ -1,5 +1,27 @@
 /* Online store styles */
-
+.navbar{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    margin-right: 20px;
+}
+.website-name{
+    font-family: poppins;
+    font-weight: 700;
+    font-size: 24px;
+    margin-left: 120px;
+}
+.pages{
+    padding-top: 5px;
+    margin-right: 120px;
+    font-family: poppins;
+    font-weight: bold;
+    font-size: 16px;
+}
 hr{
     border: .5px solid #d1d1d1;
 }
